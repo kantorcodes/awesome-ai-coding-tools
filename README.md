@@ -194,6 +194,7 @@ For when you want to own the stack.
 
 - [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) 🟢 — Independent Codex Desktop overlay that keeps current quota and reset timing visible, with a local Quota Center for pace and history; not affiliated with OpenAI.
 - [Continue](https://github.com/continuedev/continue) 🟢 🏠 — Self-hostable IDE assistant.
+- [HOL Guard](https://hol.org/guard) 🟢 🆓 — Open-source pre-action security checks and approval controls for supported AI coding-agent tool operations; hook coverage varies by integration.
 - [TabbyML](https://github.com/TabbyML/tabby) 🟢 🏠 — Self-hosted Copilot alternative.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) 🟢 🏠 — Self-host an autonomous SWE agent.
 - [LiteLLM](https://github.com/BerriAI/litellm) 🟢 🏠 — Unified gateway for 100+ LLM providers.
